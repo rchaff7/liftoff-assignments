@@ -7,12 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+	I will build a storefront similar to Steam for digital media such as books, music, movies, video games, etc. 
+	Customers will be able to purchase products and have them listed in their account library page.
+
 ### Features
-Include Features here
+	User Login: Customers will be able to create accounts to log into the site.
+	Search: users will be able to search for products within the store.
+	Purchase: users will be able to purchase products within the store which will add it to their MediaLibrary.
+	Submit Reviews: users will be able to leave reviews on products that they have purchased.
+
+
 ### Technologies
-Include Technologies here
+	MVC.NET
+	C#
+	MySQL
+
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+	I will likely need to utilize an API in order to randomly generate a lot of data in order to create the products to populate the store.
+
 ### Project Tracker
-Link to your Trello board here
+	https://trello.com/b/ESWVy4c2/liftoff
