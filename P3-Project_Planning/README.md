@@ -10,10 +10,18 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
+* [Main Page](/Main Page.pdf)
+* [Login Page](/Login Page.pdf)
+* [Product Page](/Product Page.pdf)
+
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
+[Trello](https://trello.com/b/ESWVy4c2)
+
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+
+[Github](https://github.com/rchaff7/Liftoff-storefront)
