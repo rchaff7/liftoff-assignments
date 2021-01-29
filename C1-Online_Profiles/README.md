@@ -16,5 +16,4 @@ https://www.linkedin.com/in/ryanchaffee7/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
 [Resume PDF](./Ryan Chaffee Resume - LC RESUME TEMPLATE_ Yes Experience_No Degree.pdf)
