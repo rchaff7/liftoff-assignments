@@ -16,4 +16,4 @@ https://www.linkedin.com/in/ryanchaffee7/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-[Resume PDF](./Ryan Chaffee Resume - LC RESUME TEMPLATE_ Yes Experience_No Degree.pdf)
+[Resume PDF]("./Ryan Chaffee Resume - LC RESUME TEMPLATE_ Yes Experience_No Degree.pdf")
